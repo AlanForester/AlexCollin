@@ -1,5 +1,3 @@
-# Alex Collin
-
 - DevOPS
 - Fullstack  
 - Ruby 
