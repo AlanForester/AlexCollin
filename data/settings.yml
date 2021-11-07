@@ -1,0 +1,13 @@
+site_url: 'https://alexcollin.ru'
+site_title: 'Alex Collin'
+site_description: ''
+site_author: 'Alex Collin'
+site_author_profile: ''
+site_author_image: 'profile.png'
+reverse_title: true
+social_links:
+  twitter: 'https://twitter.com'
+  facebook: 'https://facebook.com'
+  github: 'https://github.com/AlexCollin'
+  linkedin: 'https://linkedin.com/AlexCollin'
+# google_analytics_account: 'XX-12345678-9'
