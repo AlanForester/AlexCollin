@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/AlexCollin/AlexCollin/issues"
   },
-  "homepage": "https://github.com/AlexCollin/AlexCollin#readme",
+  "homepage": "https://alexcollin.github.io",
   "dependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.4",

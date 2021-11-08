@@ -5,4 +5,4 @@
 - PHP 
 - TypeScript
 
-> 🌏 https://alexcollin.ru
+> 🌐 https://alexcollin.ru
