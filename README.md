@@ -1,4 +1,4 @@
-** Scrum Master**
+**Scrum Master**
 - DevOPS
 - Fullstack
 - Ruby 
