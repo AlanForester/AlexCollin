@@ -6,4 +6,4 @@
 - PHP 
 - TypeScript
 
-> 🌐 https://alexcollin.ru
+> 🌐 https://t.me/scrummastering
