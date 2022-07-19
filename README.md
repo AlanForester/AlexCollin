@@ -1,6 +1,6 @@
-**Scrum Master**
+**Scrum Master and Fullstack dev**
 - DevOPS
-- Fullstack
+- Angular
 - Ruby 
 - Golang 
 - PHP 
